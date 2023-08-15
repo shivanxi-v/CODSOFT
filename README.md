@@ -8,5 +8,7 @@ is correct, too high, or too low.
    
 You can incorporate additional details as follows:
 6. Limit the number of attempts the user has to guess the number.
+
 7. Add the option for multiple rounds, allowing the user to play again.
+   
 8. Display the user's score, which can be based on the number of attempts taken or rounds won
